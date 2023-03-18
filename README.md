@@ -23,7 +23,7 @@ for Slip add the tag Slip to the Gameobject
 
 ## faq 
 **1.**
-Custom Tap not working?
+Custom Tap not working?                                                                
 **Fix**
 if your left and right hand is a sphere collider and is trigger tick the L And R Hand Has Trigger box!
 else leave it blank
