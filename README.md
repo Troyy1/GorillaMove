@@ -15,11 +15,11 @@ Ability to add custom hit sounds for any surface
 
 
 ## custom hit sounds
-for Grass add the tag Grass to the Gameobject
-for Stone add the tag Stone to the Gameobject
-for Metal add the tag Metal to the Gameobject
-for Wood add the tag Wood to the Gameobject
-for Slip add the tag Slip to the Gameobject
+for Grass add the tag Grass to the Gameobject                                                                
+for Stone add the tag Stone to the Gameobject                                                                
+for Metal add the tag Metal to the Gameobject                                                                
+for Wood add the tag Wood to the Gameobject                                                                
+for Slip add the tag Slip to the Gameobject                                                                
 
 ## faq 
 **1.**
